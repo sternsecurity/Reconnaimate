@@ -51,7 +51,7 @@ apt install python3-textual python3-psutil
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/reconnaimate.git
+   git clone https://github.com/sternsecurity/reconnaimate.git
    cd reconnaimate
    ```
 
